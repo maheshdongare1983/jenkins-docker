@@ -1,1 +1,2 @@
 df -h
+free -m
